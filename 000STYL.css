@@ -1,0 +1,39 @@
+/*BALISES GENERALES*/
+p {
+    font-size : large;
+    color : black;
+    background-color:silver;
+}
+mark {
+    color : black;
+    background-color : aqua;
+    font-family: "Times New Roman", Times, Arial;
+    font-size : large;
+    font-style: italic;
+}
+span {
+    color : red;
+}
+ 
+/*TITRES*/
+h1, h2, h3 {
+    color : navy;
+    background-color : aqua;
+}
+
+
+/*CLASS SELECTORS*/
+.bando {
+    background-color : aqua;
+}
+
+nav.menu {
+    font-size: xlarge;
+    border:3px blue dashed;
+    box-shadow: 16px 16px 10px grey inset;
+}
+p.txt {
+    background-color : rgb(231,230,232);
+    font-size: large;
+    font-family: Arial, Verdana, sans-serif;
+}
